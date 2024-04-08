@@ -10,11 +10,6 @@ about:
   - text: LinkedIn
     icon: linkedin
     href: https://www.linkedin.com/in/saskianowicki/
-  - text: Resume
-    icon: file-text
-    href: My_CV.pdf
 ---
 
 I do research to figure out how data can be leveraged to improve water quality for human and ecosystem health.
-
-## Research Themes
