@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+About this site: I'm probably not going to use very much code, but I'll want to have written content and some images. It would be cool to figure out how to embed videos and text also.
 
 ```{r}
 1 + 1
