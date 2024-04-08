@@ -1,11 +1,14 @@
 ---
 title: "Publications"
-resources: Paper2023_GroundwaterChemistry.pdf
+resources: Paper2023_GroundwaterChemistry.pdf, Paper2022_FearResults.pdf
 ---
 
 ## Peer-reviewed
 
-**Nowicki S**, Birhanu B, Tanui F, Sule M.N, Charles K, Olago D, Kebede S. (2023) Water chemistry poses health risks as reliance on groundwater increases: a systematic review of hydrogeochemistry research from Ethiopia and Kenya. Science of the Total Environment. \[[View Online](https://doi.org/10.1016/j.scitotenv.2023.166929)\] \[[Download PDF](Paper2023_GroundwaterChemistry.pdf)\]
+**Nowicki S**, Birhanu B, Tanui F, Sule M.N, Charles K, Olago D, Kebede S. (2023) Water chemistry poses health risks as reliance on groundwater increases: a systematic review of hydrogeochemistry research from Ethiopia and Kenya. Science of the Total Environment. \[[view online](https://doi.org/10.1016/j.scitotenv.2023.166929)\] \[[download PDF](Paper2023_GroundwaterChemistry.pdf)\]
+
+**Nowicki S**, Bukachi S, Hoque S, Katuva J, Musyoka M, Sammy M, Mwaniki M, Omia D, Wambua F, Charles, K. (2022) Fear, Efficacy, and Environmental Health Risk Reporting:
+Complex Responses to Water Quality Test Results in Low-Income Communities. International Journal of Environmental Research and Public Health. \[[view online](https://doi.org/10.3390/ijerph19010597)\] \[[download PDF](Paper2022_FearResults.pdf)\]
 
 ## Book chapters
 
