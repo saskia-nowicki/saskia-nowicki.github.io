@@ -1,5 +1,17 @@
 ---
-title: "Home"
+title: "Hi, I'm Saskia"
+image: headshot_square.jpg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+  - text: LinkedIn
+    icon: linkedin
+    href: https://www.linkedin.com/in/saskianowicki/
+  - text: Resume
+    icon: file-text
+    href: Nowicki_CVgeneral_Oct2023.pdf
 ---
 
 This is a Quarto website.
