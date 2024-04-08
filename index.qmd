@@ -1,6 +1,7 @@
 ---
 title: "Hi, I'm Saskia"
 image: headshot_square.jpg
+resources: Nowicki_CVgeneral_Oct2023.pdf
 about: 
   template: jolla
   image-shape: round
@@ -14,10 +15,6 @@ about:
     href: Nowicki_CVgeneral_Oct2023.pdf
 ---
 
-This is a Quarto website.
+I do research to figure out how data can be leveraged to improve water quality for human and ecosystem health.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+## Research Themes

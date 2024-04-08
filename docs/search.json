@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hi, I’m Saskia",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I do research to figure out how data can be leveraged to improve water quality for human and ecosystem health."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,47 @@
     "title": "Publications",
     "section": "Technical reports and working papers",
     "text": "Technical reports and working papers"
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "Hi, I’m Saskia",
+    "section": "Research Themes",
+    "text": "Research Themes"
+  },
+  {
+    "objectID": "projects.html#reach-water-security-programme",
+    "href": "projects.html#reach-water-security-programme",
+    "title": "Projects",
+    "section": "REACH Water Security Programme",
+    "text": "REACH Water Security Programme\n\nResults-based Funding for Safe Water Services\n\n\nWISER\n\n\nRural Labs"
+  },
+  {
+    "objectID": "projects.html#doctoral-research",
+    "href": "projects.html#doctoral-research",
+    "title": "Projects",
+    "section": "Doctoral Research",
+    "text": "Doctoral Research"
+  },
+  {
+    "objectID": "projects.html#unlocking-the-potential-of-groundwater",
+    "href": "projects.html#unlocking-the-potential-of-groundwater",
+    "title": "Projects",
+    "section": "Unlocking the Potential of Groundwater",
+    "text": "Unlocking the Potential of Groundwater"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Nowicki S, Birhanu B, Tanui F, Sule M.N, Charles K, Olago D, Kebede S. (2023) Water chemistry poses health risks as reliance on groundwater increases: a systematic review of hydrogeochemistry research from Ethiopia and Kenya. Science of the Total Environment. [View Online] [Download PDF]"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed",
+    "href": "publications.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Nowicki S, Birhanu B, Tanui F, Sule M.N, Charles K, Olago D, Kebede S. (2023) Water chemistry poses health risks as reliance on groundwater increases: a systematic review of hydrogeochemistry research from Ethiopia and Kenya. Science of the Total Environment. [View Online] [Download PDF]"
   }
 ]

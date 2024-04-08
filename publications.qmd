@@ -1,8 +1,11 @@
 ---
 title: "Publications"
+resources: Paper2023_GroundwaterChemistry.pdf
 ---
 
 ## Peer-reviewed
+
+**Nowicki S**, Birhanu B, Tanui F, Sule M.N, Charles K, Olago D, Kebede S. (2023) Water chemistry poses health risks as reliance on groundwater increases: a systematic review of hydrogeochemistry research from Ethiopia and Kenya. Science of the Total Environment. \[[View Online](https://doi.org/10.1016/j.scitotenv.2023.166929)\] \[[Download PDF](Paper2023_GroundwaterChemistry.pdf)\]
 
 ## Book chapters
 
