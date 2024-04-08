@@ -1,7 +1,7 @@
 ---
 title: "Hi, I'm Saskia"
 image: headshot_square.jpg
-resources: Nowicki_CVgeneral_Oct2023.pdf
+resources: My_CV.pdf
 about: 
   template: jolla
   image-shape: round
@@ -12,7 +12,7 @@ about:
     href: https://www.linkedin.com/in/saskianowicki/
   - text: Resume
     icon: file-text
-    href: Nowicki_CVgeneral_Oct2023.pdf
+    href: My_CV.pdf
 ---
 
 I do research to figure out how data can be leveraged to improve water quality for human and ecosystem health.

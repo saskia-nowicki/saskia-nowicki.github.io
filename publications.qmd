@@ -1,14 +1,15 @@
 ---
 title: "Publications"
-resources: Paper2023_GroundwaterChemistry.pdf, Paper2022_FearResults.pdf
+resources: Paper2023_GroundwaterChemistry.pdf, Paper2022_FearResults.pdf, Paper2021_EcoliSequencing.pdf
 ---
 
 ## Peer-reviewed
 
-**Nowicki S**, Birhanu B, Tanui F, Sule M.N, Charles K, Olago D, Kebede S. (2023) Water chemistry poses health risks as reliance on groundwater increases: a systematic review of hydrogeochemistry research from Ethiopia and Kenya. Science of the Total Environment. \[[view online](https://doi.org/10.1016/j.scitotenv.2023.166929)\] \[[download PDF](Paper2023_GroundwaterChemistry.pdf)\]
+\(2023\) Water chemistry poses health risks as reliance on groundwater increases: a systematic review of hydrogeochemistry research from Ethiopia and Kenya. *Science of the Total Environment.* **Nowicki S**, Birhanu B, Tanui F, Sule MN, Charles K, Olago D, and Kebede S. \[[view online](https://doi.org/10.1016/j.scitotenv.2023.166929)\] \[[download PDF](Paper2023_GroundwaterChemistry.pdf)\]
 
-**Nowicki S**, Bukachi S, Hoque S, Katuva J, Musyoka M, Sammy M, Mwaniki M, Omia D, Wambua F, Charles, K. (2022) Fear, Efficacy, and Environmental Health Risk Reporting:
-Complex Responses to Water Quality Test Results in Low-Income Communities. International Journal of Environmental Research and Public Health. \[[view online](https://doi.org/10.3390/ijerph19010597)\] \[[download PDF](Paper2022_FearResults.pdf)\]
+\(2022\) Fear, Efficacy, and Environmental Health Risk Reporting: Complex Responses to Water Quality Test Results in Low-Income Communities. *International Journal of Environmental Research and Public Health*. **Nowicki S**, Bukachi S, Hoque S, Katuva J, Musyoka M, Sammy M, Mwaniki M, Omia D, Wambua F, and Charles, K. \[[view online](https://doi.org/10.3390/ijerph19010597)\] \[[download PDF](Paper2022_FearResults.pdf)\]
+
+\(2021\) The utility of *Escherichia coli* as a contamination indicator for rural drinking water: Evidence from whole genome sequencing. *PLoS ONE.* **Nowicki S**, deLaurent ZR, de Villiers EP, Githinji G, and Charles KJ. \[[view online](https://doi.org/10.1371/journal.pone.0245910)\] \[[download PDF](Paper2021_EcoliSequencing.pdf)\]
 
 ## Book chapters
 
