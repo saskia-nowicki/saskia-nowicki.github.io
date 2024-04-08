@@ -9,10 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
