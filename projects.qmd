@@ -28,4 +28,4 @@ Alongside my main research activities, I am currently providing advisory support
 
 -   Segura Advanced Water Testing Ltd on development of electrochemical water quality test methods for rapid measurement of *E. coli* and heavy-metals
 
--   Aquaya Institute for technical advice on water quality data sharing for the WaterTRACS project
+-   Aquaya Institute on water quality data sharing for the WaterTRACS project
