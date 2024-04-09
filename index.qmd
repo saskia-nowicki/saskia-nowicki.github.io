@@ -10,6 +10,9 @@ about:
   - text: LinkedIn
     icon: linkedin
     href: https://www.linkedin.com/in/saskianowicki/
+  - text: Google Scholar
+    icon: mortarboard-fill
+    href: https://scholar.google.com/citations?user=bzKRbzgAAAAJ
 ---
 
-I do research to figure out how data can be leveraged to improve water quality for human and ecosystem health.
+I do solution-focused research that cuts across the natural, social, and health sciences to respond to long-standing and emerging water quality risks. Working collaboratively with interdisciplinary research teams and with partners beyond academia, my work aims to support policy and management strategies that sustain healthy freshwater ecosystems and equitable safe water service delivery.
